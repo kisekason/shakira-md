@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
     "AUTHOR": "Suhail",
-    "theme": "Suhail-Md",
+    "theme": "shakira-md",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -31,11 +31,11 @@
             "revoked" : "*Hii Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Suhail Tech_",
             "demote": "Uhh,Admin Role Taken back",
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
-            "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Suhail_Md*",
+            "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by shakira-md*",
             "mention": " Please mention My Owner",
             "title": "sᴜʜᴀɪʟ-ᴍᴅ",
             "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
-            "by": "Made by: Suhail Tech Info",
+            "by": "Made by: kisekason",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
